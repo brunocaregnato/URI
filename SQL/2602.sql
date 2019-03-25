@@ -1,0 +1,1 @@
+select name n from customers n where n.state = 'RS'
