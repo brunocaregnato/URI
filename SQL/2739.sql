@@ -1,0 +1,1 @@
+select name, cast(trim(to_char(payday, 'DD')) as integer) as day from loan

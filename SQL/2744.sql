@@ -1,0 +1,1 @@
+select a.id, a.password, MD5(password) as MD5 from account a 
